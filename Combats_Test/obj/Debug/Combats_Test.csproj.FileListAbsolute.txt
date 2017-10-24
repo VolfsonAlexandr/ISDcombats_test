@@ -1,0 +1,10 @@
+C:\MyFolder\С#\ISD\Combats_Test\Combats_Test\bin\Debug\Combats_Test.exe.config
+C:\MyFolder\С#\ISD\Combats_Test\Combats_Test\obj\Debug\Combats_Test.csprojResolveAssemblyReference.cache
+C:\MyFolder\С#\ISD\Combats_Test\Combats_Test\obj\Debug\Combats_Test.Loginform.resources
+C:\MyFolder\С#\ISD\Combats_Test\Combats_Test\obj\Debug\Combats_Test.Gameform.resources
+C:\MyFolder\С#\ISD\Combats_Test\Combats_Test\obj\Debug\Combats_Test.Properties.Resources.resources
+C:\MyFolder\С#\ISD\Combats_Test\Combats_Test\obj\Debug\Combats_Test.csproj.GenerateResource.Cache
+C:\MyFolder\С#\ISD\Combats_Test\Combats_Test\bin\Debug\Combats_Test.exe
+C:\MyFolder\С#\ISD\Combats_Test\Combats_Test\bin\Debug\Combats_Test.pdb
+C:\MyFolder\С#\ISD\Combats_Test\Combats_Test\obj\Debug\Combats_Test.exe
+C:\MyFolder\С#\ISD\Combats_Test\Combats_Test\obj\Debug\Combats_Test.pdb
