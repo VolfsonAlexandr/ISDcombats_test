@@ -12,6 +12,7 @@ namespace Combats_Test
 {
     public partial class Gameform : Form
     {
+//change
         public Label[] NameLabels;
         public Label[] HpLabels;
         public ProgressBar[] HpProgressBars;
