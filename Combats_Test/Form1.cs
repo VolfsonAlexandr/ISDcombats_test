@@ -19,6 +19,7 @@ namespace Combats_Test
 
         private void button1_Click(object sender, EventArgs e)
         {
+//change test3
             string username = textBox1.Text;
             Gameform gf;
             if (username != "")
